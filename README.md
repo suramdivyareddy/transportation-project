@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Uploading nycposter.png…]()
+![nycposter](https://github.com/user-attachments/assets/dda81d98-5c9a-49c9-aa76-a85de27312fb)
 
 This project provides a comprehensive data analysis of the Motor Vehicle Collisions dataset sourced from NYC Open Data. The objective is to identify key patterns, risk factors, and trends in traffic accidents across New York City. By leveraging various data analysis and visualization techniques, the project aims to generate actionable insights that can inform road safety initiatives for all road users, including drivers, cyclists, and pedestrians.
 
